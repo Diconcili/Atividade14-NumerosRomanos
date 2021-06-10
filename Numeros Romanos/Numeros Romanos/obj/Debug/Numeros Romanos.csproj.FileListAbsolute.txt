@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\Numeros Romanos\Numeros Romanos\bin\Debug\Numeros Romanos.exe.config
+C:\Users\eduar\source\repos\Numeros Romanos\Numeros Romanos\bin\Debug\Numeros Romanos.exe
+C:\Users\eduar\source\repos\Numeros Romanos\Numeros Romanos\bin\Debug\Numeros Romanos.pdb
+C:\Users\eduar\source\repos\Numeros Romanos\Numeros Romanos\obj\Debug\Numeros Romanos.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Numeros Romanos\Numeros Romanos\obj\Debug\Numeros Romanos.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Numeros Romanos\Numeros Romanos\obj\Debug\Numeros Romanos.exe
+C:\Users\eduar\source\repos\Numeros Romanos\Numeros Romanos\obj\Debug\Numeros Romanos.pdb
